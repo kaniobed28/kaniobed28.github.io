@@ -47855,7 +47855,7 @@ J(a){var s,r=this,q=null,p=t.w,o=A.be(a,q,p).w
 p=A.be(a,q,p).w
 if(r.f.ay.gl(0))p=A.zX()
 else{s=t.D
-o=A.kU(q,A.rL(A.Nt(A.bQ(q,A.e8(A.b([A.Be(q,B.ou,q,new A.alK(),q,q),A.bf("Campus Sell",q,q,q,q,q,q),B.zX,r.Jy(r.e),B.zZ,r.L7(r.d),new A.bE(B.fM,A.a8o(!1,B.Wo,q,q,B.du,q,q,q,q,new A.alL(r),q,A.pO(q,q,q,new A.bG(B.v,t.De),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q),A.mr(A.b([B.Ws,A.fm(q,B.Az,B.V,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.alM(),q,q,q,q,q,q)],s),B.a8,B.W,B.ar)],s),B.a8,B.W,B.ar),B.l,B.nq,q,q,q,p.a.b,q,q,new A.aC(10,10,10,10),q,q,o.a.a),r.c),B.Y),q)
+o=A.kU(q,A.rL(A.Nt(A.bQ(q,A.e8(A.b([A.Be(q,B.ou,q,new A.alK(),q,q),A.bf("Campus Sell",q,q,q,q,q,q),B.zX,r.Jy(r.e),B.zZ,r.L7(r.d),new A.bE(B.fM,A.a8o(!1,B.Wo,q,q,B.du,q,q,q,q,new A.alL(r),q,A.pO(q,q,q,new A.bG(B.v,t.De),q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q)),q),A.mr(A.b([B.Wr,A.fm(q,B.Az,B.V,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.alM(),q,q,q,q,q,q)],s),B.a8,B.W,B.ar)],s),B.a8,B.W,B.ar),B.l,B.nq,q,q,q,p.a.b,q,q,new A.aC(10,10,10,10),q,q,o.a.a),r.c),B.Y),q)
 p=o}return A.ik(!0,p,!0,B.a1,!0,!0)},
 L7(a){return A.oT(a,B.ow,null,!0,new A.alO())},
 Jy(a){return A.oT(a,B.ov,B.At,!1,new A.alN())}}
@@ -48571,7 +48571,7 @@ A.N2(s,"Notification","Sorry promotion not available now! Please check for updat
 $S:0}
 A.tW.prototype={
 J(a){var s=null
-return A.kU(A.pD(s,s,!0,s,s,1,s,s,s,!1,s,!1,s,s,s,s,!0,s,s,s,s,s,B.Wz,s,s,s,1,s),B.DU,s)}}
+return A.kU(A.pD(s,s,!0,s,s,1,s,s,s,!1,s,!1,s,s,s,s,!0,s,s,s,s,s,B.Wy,s,s,s,1,s),B.DU,s)}}
 A.uk.prototype={
 J(a){var s,r,q,p=null,o="[DEFAULT]",n=$.aX(),m=$.bL,l=(m==null?$.bL=$.eo():m).eB(o)
 m=$.e3()
@@ -48676,7 +48676,7 @@ r.sdl(0,"")
 j.w.sdl(0,"")
 j.z.sdl(0,"")
 j.Q.sdl(0,"")
-q=A.pD(B.JS,i,!0,B.v,i,1,!0,i,i,!1,i,!1,i,i,i,i,!0,i,i,i,i,i,B.Ww,i,i,i,1,i)
+q=A.pD(B.JS,i,!0,B.v,i,1,!0,i,i,!1,i,!1,i,i,i,i,!0,i,i,i,i,i,B.Wv,i,i,i,1,i)
 g=A.aFk(g,A.cP(h,!0,!1),"Item Name",B.HE)
 s=A.aFk(s,A.cP(h,!0,!1),"Brand Name",B.on)
 r=A.aFk(r,A.cP(h,!0,!1),"Hostel Name",B.op)
@@ -48692,7 +48692,7 @@ p=A.Aj(i,A.X(new A.a5(n,new A.akI(),l),!0,l.i("ay.E")),new A.akJ(j),i,p,m)
 l=j.d
 n=l[0]
 k=A.a0(l).i("a5<1,d1<k>>")
-return A.ik(!0,A.kU(q,A.rL(A.Nt(A.bQ(i,A.e8(A.b([B.dP,g,B.dP,s,B.dP,r,B.dP,o,B.dP,p,B.dP,A.Aj(i,A.X(new A.a5(l,new A.akK(),k),!0,k.i("ay.E")),new A.akL(j),i,n,m),new A.bE(B.fM,A.aHH(B.h5,B.Wu,new A.akM(j),A.pO(i,i,i,new A.bG(B.v,t.De),i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i)),i)],t.D),B.a8,B.W,B.ar),B.l,i,i,i,i,i,i,B.GH,i,i,i,i),j.f),B.Y),i),!0,B.a1,!0,!0)}}
+return A.ik(!0,A.kU(q,A.rL(A.Nt(A.bQ(i,A.e8(A.b([B.dP,g,B.dP,s,B.dP,r,B.dP,o,B.dP,p,B.dP,A.Aj(i,A.X(new A.a5(l,new A.akK(),k),!0,k.i("ay.E")),new A.akL(j),i,n,m),new A.bE(B.fM,A.aHH(B.h5,B.Wt,new A.akM(j),A.pO(i,i,i,new A.bG(B.v,t.De),i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i)),i)],t.D),B.a8,B.W,B.ar),B.l,i,i,i,i,i,i,B.GH,i,i,i,i),j.f),B.Y),i),!0,B.a1,!0,!0)}}
 A.akG.prototype={
 $1(a){var s=null
 return A.MM(A.bf(a,s,s,s,s,s,s),a,t.N)},
@@ -48808,7 +48808,7 @@ s=A.oT(o.d,B.I2,n,!1,new A.apK())
 q=o.e.a.a
 q=q.length!==0?q:n
 p=t.D
-return A.kU(n,new A.bE(B.k4,A.e8(A.b([A.rL(A.Nt(new A.bE(B.nS,A.e8(A.b([s,B.ia,A.Aj(B.I0,B.II,new A.apL(o),new A.apM(),q,t.N),B.ia,A.oT(o.r,B.I1,B.S7,!1,new A.apN()),B.ia,A.oT(o.f,B.I3,B.ii,!1,new A.apO())],p),B.a8,B.W,B.ar),n),o.w),B.Y),new A.f7(new A.apP(o),n),B.lA,A.a8o(!1,B.Wr,n,n,B.du,n,n,n,n,new A.apQ(o),n,n),B.lA,new A.f7(new A.apR(o),n),B.lA,new A.f7(new A.apS(o,r),n)],p),B.a8,B.uQ,B.ar),n),n)}}
+return A.kU(n,new A.bE(B.k4,A.e8(A.b([A.rL(A.Nt(new A.bE(B.nS,A.e8(A.b([s,B.ia,A.Aj(B.I0,B.II,new A.apL(o),new A.apM(),q,t.N),B.ia,A.oT(o.r,B.I1,B.S7,!1,new A.apN()),B.ia,A.oT(o.f,B.I3,B.ii,!1,new A.apO())],p),B.a8,B.W,B.ar),n),o.w),B.Y),new A.f7(new A.apP(o),n),B.lA,A.a8o(!1,B.WA,n,n,B.du,n,n,n,n,new A.apQ(o),n,n),B.lA,new A.f7(new A.apR(o),n),B.lA,new A.f7(new A.apS(o,r),n)],p),B.a8,B.uQ,B.ar),n),n)}}
 A.apK.prototype={
 $1(a){if(a==null||a.length===0)return"This field is required"
 return null},
@@ -101429,24 +101429,24 @@ B.Wk=new A.cA("Select Item Type",null,null,null,null,null,null,null,null)
 B.G2=new A.d1("",B.Wk,B.aP,null,t.b7)
 B.Wm=new A.cA("Fashion",null,null,null,null,null,null,null,null)
 B.G0=new A.d1("fashion",B.Wm,B.aP,null,t.b7)
-B.WA=new A.cA("Food",null,null,null,null,null,null,null,null)
-B.G4=new A.d1("food",B.WA,B.aP,null,t.b7)
+B.Wz=new A.cA("Food",null,null,null,null,null,null,null,null)
+B.G4=new A.d1("food",B.Wz,B.aP,null,t.b7)
 B.WD=new A.cA("Electronic",null,null,null,null,null,null,null,null)
 B.FZ=new A.d1("electronic",B.WD,B.aP,null,t.b7)
-B.Wv=new A.cA("Beauty Products",null,null,null,null,null,null,null,null)
-B.G5=new A.d1("beauty",B.Wv,B.aP,null,t.b7)
+B.Wu=new A.cA("Beauty Products",null,null,null,null,null,null,null,null)
+B.G5=new A.d1("beauty",B.Wu,B.aP,null,t.b7)
 B.Wj=new A.cA("Sports Equipment",null,null,null,null,null,null,null,null)
 B.G1=new A.d1("sports",B.Wj,B.aP,null,t.b7)
 B.WF=new A.cA("Stationery",null,null,null,null,null,null,null,null)
 B.G7=new A.d1("stationery",B.WF,B.aP,null,t.b7)
-B.Wt=new A.cA("Healthcare Products",null,null,null,null,null,null,null,null)
-B.G_=new A.d1("healthcare",B.Wt,B.aP,null,t.b7)
-B.Wx=new A.cA("Jewelry",null,null,null,null,null,null,null,null)
-B.FY=new A.d1("jewelry",B.Wx,B.aP,null,t.b7)
+B.Ws=new A.cA("Healthcare Products",null,null,null,null,null,null,null,null)
+B.G_=new A.d1("healthcare",B.Ws,B.aP,null,t.b7)
+B.Ww=new A.cA("Jewelry",null,null,null,null,null,null,null,null)
+B.FY=new A.d1("jewelry",B.Ww,B.aP,null,t.b7)
 B.WE=new A.cA("Kitchen Appliances",null,null,null,null,null,null,null,null)
 B.G3=new A.d1("kitchen",B.WE,B.aP,null,t.b7)
-B.Wy=new A.cA("Others",null,null,null,null,null,null,null,null)
-B.G6=new A.d1("others",B.Wy,B.aP,null,t.b7)
+B.Wx=new A.cA("Others",null,null,null,null,null,null,null,null)
+B.G6=new A.d1("others",B.Wx,B.aP,null,t.b7)
 B.II=A.b(s([B.G2,B.G0,B.G4,B.FZ,B.G5,B.G1,B.G7,B.G_,B.FY,B.G3,B.G6]),A.ad("D<d1<k>>"))
 B.IJ=A.b(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
 B.IK=A.b(s(["ar","fa","he","ps","ur"]),t.s)
@@ -103389,11 +103389,11 @@ B.Wn=new A.cA("Already have an account? ",null,null,null,null,null,null,null,nul
 B.Wo=new A.cA("Sign In",null,B.im,null,null,null,null,null,null)
 B.Wp=new A.cA("Sign in",null,B.im,null,null,null,null,null,null)
 B.Wq=new A.cA("We allow you to buy promotion time to advertise you items for a while.",null,null,null,null,null,null,null,null)
-B.Wr=new A.cA("Pick File",null,null,null,null,null,null,null,null)
-B.Ws=new A.cA("Don't have an account? ",null,null,null,null,null,null,null,null)
-B.Wu=new A.cA("Search",null,B.im,null,null,null,null,null,null)
-B.Ww=new A.cA("Search Here",null,null,null,null,null,null,null,null)
-B.Wz=new A.cA("Buy Promotion Time",null,null,null,null,null,null,null,null)
+B.Wr=new A.cA("Don't have an account? ",null,null,null,null,null,null,null,null)
+B.Wt=new A.cA("Search",null,B.im,null,null,null,null,null,null)
+B.Wv=new A.cA("Search Here",null,null,null,null,null,null,null,null)
+B.Wy=new A.cA("Buy Promotion Time",null,null,null,null,null,null,null,null)
+B.WA=new A.cA("Select an Image",null,null,null,null,null,null,null,null)
 B.WB=new A.cA("No file picked",null,null,null,null,null,null,null,null)
 B.AA=new A.SN(0,"system")
 B.WG=new A.SN(2,"dark")
