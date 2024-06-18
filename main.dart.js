@@ -48020,7 +48020,7 @@ p=f.EI("Item Name",c.h(r,d))
 k=f.q2("Owner's Brand",q,"brand")
 l=c.h(r,"price")
 l=l==null?e:J.bC(l)
-return A.ik(!0,A.kU(n,A.e8(A.b([a,A.a99(A.rM(new A.bF(B.k6,A.e8(A.b([p,k,f.EI("Price","GH\xa2 "+(l==null?"Not Set":l)),f.q2("Phone",q,"phone"),f.q2("Social Media",q,"socialMedia"),f.q2("City",q,"city"),f.q2("University",q,"university"),f.q2("Hostel",q,"hostel"),f.EI("Description",c.h(r,"description"))],m),B.ej,B.W,B.ar),e),B.Y),1)],m),B.a8,B.W,B.ar),e),!0,B.a1,!0,!0)},
+return A.ik(!0,A.kU(n,A.e8(A.b([a,A.a99(A.rM(new A.bF(B.k6,A.e8(A.b([p,k,f.EI("Price","GH\xa2 "+(l==null?"Not Set":l)),f.q2("Phone",q,"phone"),f.q2("Social Media",q,"socialMedia"),f.q2("City",q,"city"),f.q2("University",q,"university"),f.q2("Address/Hostel",q,"hostel"),f.EI("Description",c.h(r,"description"))],m),B.ej,B.W,B.ar),e),B.Y),1)],m),B.a8,B.W,B.ar),e),!0,B.a1,!0,!0)},
 EI(a,b){var s=null,r=b==null?s:J.bC(b)
 if(r==null)r="Not Set"
 return new A.bF(B.dk,A.iS(s,s,s,A.bf(a+": "+r,s,s,s,A.lp().$1$fontSize(16),s,s),A.eN(s,B.AB,B.R,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a58(b),s,s,s,s,s,s)),s)},
@@ -48519,7 +48519,7 @@ q=q.length!==0?q:m
 p=n.e
 o=A.a0(p).i("a5<1,d1<k>>")
 o=A.X(new A.a5(p,new A.al5(),o),!0,o.i("ay.E"))
-return A.ik(!0,A.kU(k,A.rM(A.Nt(A.bQ(m,A.e8(A.b([j,i,h,g,r,A.Al(A.v3(m,new A.fP(4,B.ca,B.e3),m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"University Name",m,A.nU(B.HD,m,m),m,m,m,m,m,m,m,m,m,m,m),o,new A.al6(n),new A.al7(),q,s),A.el(m,30,m),A.aBs(n.Q,A.cP(l,!0,!1),"Hostel Name",B.HI),A.el(m,30,m),A.aBs(n.as,A.cP(l,!0,!1),"Phone Number",B.Hu),A.el(m,30,m),A.aBs(n.at,A.cP(l,!0,!1),"Social Media (eg.WhatsApp)",B.HA),A.el(m,30,m),new A.bF(B.fM,new A.f8(new A.al8(n),m),m)],t.D),B.a8,B.W,B.ar),B.l,m,m,m,m,m,m,new A.aC(20,0,20,0),m,m,m,m),n.r),B.Y),m),!0,B.a1,!0,!0)}}
+return A.ik(!0,A.kU(k,A.rM(A.Nt(A.bQ(m,A.e8(A.b([j,i,h,g,r,A.Al(A.v3(m,new A.fP(4,B.ca,B.e3),m,m,m,m,m,m,!0,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,"University Name",m,A.nU(B.HD,m,m),m,m,m,m,m,m,m,m,m,m,m),o,new A.al6(n),new A.al7(),q,s),A.el(m,30,m),A.aBs(n.Q,A.cP(l,!0,!1),"Address/Hostel Name",B.HI),A.el(m,30,m),A.aBs(n.as,A.cP(l,!0,!1),"Phone Number",B.Hu),A.el(m,30,m),A.aBs(n.at,A.cP(l,!0,!1),"Social Media (eg.WhatsApp No)",B.HA),A.el(m,30,m),new A.bF(B.fM,new A.f8(new A.al8(n),m),m)],t.D),B.a8,B.W,B.ar),B.l,m,m,m,m,m,m,new A.aC(20,0,20,0),m,m,m,m),n.r),B.Y),m),!0,B.a1,!0,!0)}}
 A.al2.prototype={
 $1(a){var s=null
 return A.MN(A.bf(a,s,s,s,s,s,s),a,t.N)},
