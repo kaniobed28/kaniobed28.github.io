@@ -1,11 +1,11 @@
 {
-    "name": "campus sell",
-    "short_name": "campus sell",
+    "name": "campus_sell",
+    "short_name": "campus_sell",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "The platform that makes you create an online shop and connects buyers and sellers together without cost.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
