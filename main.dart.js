@@ -49492,11 +49492,12 @@ q=k.oQ(a,B.kX,$.cx().to.a===h,h,"Search Item")
 p=k.oQ(a,B.pw,$.cx().to.a===g,g,"Add to My Shop")
 o=k.oQ(a,B.Jr,$.cx().to.a===f,f,"Remove from My Shop")
 n=k.c
-m=A.i(n.ch.gl(0))
+m=n.ay
+n=!m.gl(0)?"/shop/shopitems/not-authenticated":"/shop/shopitems/"+A.i(n.ch.gl(0))
 l=t.p
-m=A.cy(A.b([new A.P8(B.DH,e,j),B.oL,A.cy(A.b([s,r,q,p,o,k.oQ(a,B.kZ,B.d.p($.cx().to.a,"shop/shopitems"),"/shop/shopitems/"+m,"My Shop"),k.oQ(a,B.kV,$.cx().to.a==="/shop/basket","/shop/basket","My Basket")],l),B.t,B.z,B.A)],l),B.t,B.z,B.A)
-e=!n.ay.gl(0)?"Sign In":"Sign Out"
-return new A.P4(B.j,A.cy(A.b([m,A.cy(A.b([B.oL,k.abY(a,B.JC,new A.abf(k),e)],l),B.t,B.z,B.A)],l),B.t,B.bu,B.A),j)},
+n=A.cy(A.b([new A.P8(B.DH,e,j),B.oL,A.cy(A.b([s,r,q,p,o,k.oQ(a,B.kZ,B.d.p($.cx().to.a,"shop/shopitems/"),n,"My Shop"),k.oQ(a,B.kV,$.cx().to.a==="/shop/basket","/shop/basket","My Basket")],l),B.t,B.z,B.A)],l),B.t,B.z,B.A)
+e=!m.gl(0)?"Sign In":"Sign Out"
+return new A.P4(B.j,A.cy(A.b([n,A.cy(A.b([B.oL,k.abY(a,B.JC,new A.abf(k),e)],l),B.t,B.z,B.A)],l),B.t,B.bu,B.A),j)},
 QO(a,b,c,d,e,f){var s=null,r=c?B.ot:B.p,q=A.fa(b,c?B.wb:B.k,s,s),p=A.aX(f,s,s,s,A.kQ().$2$color$fontWeight(c?B.or:B.S,B.f9),s,s),o=d==null?new A.abe(e):d
 return A.aKa(A.Du(!1,s,s,s,!0,s,!1,q,s,o,!1,s,s,s,s,s,p,c?B.K7:s,s),r,s,B.F,s,B.bp,s,s)},
 oQ(a,b,c,d,e){return this.QO(a,b,c,null,d,e)},
@@ -49727,7 +49728,7 @@ if(b.a===B.dN)return B.hi
 s=b.c
 if(s!=null)return A.e0(A.aX("Error: "+A.i(s),q,q,q,q,q,q),q,q)
 s=b.b
-if(s==null||s.giU().length===0)return A.e0(A.cy(A.b([A.fa(B.Jx,B.dL,q,100),B.c4,A.aX("No items available",q,q,q,A.kQ().$2$color$fontSize(B.aV,18),q,q),B.cm,A.aX("There are no items in this shop.",q,q,q,A.kQ().$2$color$fontSize(B.eT,16),q,q)],t.p),B.t,B.e6,B.A),q,q)
+if(s==null||s.giU().length===0)return A.e0(A.cy(A.b([A.fa(B.Jx,B.dL,q,100),B.c4,A.aX("No items available",q,q,q,A.kQ().$2$color$fontSize(B.aV,18),q,q),B.cm,A.aX("There are no items in this shop.Consider adding to your shop!",q,q,q,A.kQ().$2$color$fontSize(B.eT,16),q,q)],t.p),B.t,B.e6,B.A),q,q)
 r=s.giU()
 return A.aLn(new A.aCU(this.a,r),r.length,B.cE,new A.aCV())},
 $S:186}
