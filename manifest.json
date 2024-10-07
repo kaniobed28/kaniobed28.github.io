@@ -1,11 +1,11 @@
 {
-    "name": "campus_sell",
-    "short_name": "campus_sell",
+    "name": "readit",
+    "short_name": "readit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "The platform that makes you create online shop for goods or services and connects producers and consumers together without cost.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
